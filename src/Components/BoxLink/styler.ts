@@ -7,6 +7,7 @@ const styler = {
         width: '700px',
         margin: 8,
         color: 'white',
+        'border-radius': '100px',
     }
 };
 export default styler;
